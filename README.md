@@ -1,4 +1,4 @@
-# 🧹 Invisible Unicode Cleaner
+# Invisible Unicode Cleaner
 
 **Invisible Unicode Cleaner** is a lightweight, browser-based tool that detects and removes **zero-width**, **bidi control**, **BOM**, **soft hyphen**, and other **non-printable Unicode characters** that can sneak into your text when copying from PDFs, Word documents, or the web.
 
@@ -6,7 +6,7 @@ Runs **100% client-side** — no data ever leaves your browser.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Detect & remove** invisible Unicode characters such as:
   - Zero Width Space (ZWSP `\u200B`)
@@ -33,10 +33,11 @@ Runs **100% client-side** — no data ever leaves your browser.
 
 ---
 
-## 🧰 Installation
+## Installation
 
 No installation required.
 
 Simply **open `invisible_unicode_cleaner.html`** in your browser, or host it locally with:
 ```bash
 python -m http.server
+
